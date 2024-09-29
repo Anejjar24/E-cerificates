@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">E-certificates</string>
+    <string name="question1">1-Le pattern MVC signifie :</string>
+    <string name="question2">2-La syntaxe $[x] est permise dans une JSP :</string>
+    <string name="oui">OUi</string>
+    <string name="non">Non</string>
+    <string name="option1">Multiple Versions Combined</string>
+    <string name="option2">Model View Controller</string>
+    <string name="option3">Main Value Compiled</string>
+    <string name="option4">Mandatory Validated Controls</string>
+    <string name="quitter">Quitter</string>
+    <string name="suivant">Suivant</string>
+
+</resources>
